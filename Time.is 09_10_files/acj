@@ -1,0 +1,25 @@
+OX_6749854787({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://pixfuture-d.openx.net/{medium}/1.0/{rtype}?ts={txn_state}",
+    "oxt": 8.596,
+    "adunits" : [
+      {
+        "auid":"538090345",
+        "chain":[
+          {
+            "is_fallback":0,
+            "ad_id":"537430760",
+            "width":"728",
+            "height":"90",
+            "html":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-1575911585432548\";\ngoogle_ad_slot = \"3157381981\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n\n\n<script type=\"text/javascript\">\nvar _qevents = _qevents || [];\n\n(function() {\nvar elem = document.createElement('script');\nelem.src =  \"//secure.quantserve.com/quant.js\";\nelem.async = true;\nelem.type = \"text/javascript\";\nvar scpt = document.getElementsByTagName('script')[0];\nscpt.parentNode.insertBefore(elem, scpt);\n})();\n\n_qevents.push({\nqacct:\"p-7ccbedljiLMl2\"\n});\n</script>\n\n<noscript>\n<div style=\"display:none;\">\n<img src=\"//pixel.quantserve.com/pixel/p-7ccbedljiLMl2.gif\" border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n</div>\n</noscript>\n\n",
+            "target":"_blank",
+            "ts":"1fHJpZD03MTM4MTlkMS01NGMxLTRlMGUtYmY3Ni1jYTgzNjRjODNkM2F8cnQ9MTQ4OTQ2MTA0OXxhdWlkPTUzODA5MDM0NXxhdW09RE1JRC5XRUJ8YXVwZj1kaXNwbGF5fHNpZD01MzcwODczODl8cHViPTUzNzA3ODAxMnxwYz1VU0R8eHQ9cmVzb2xpY2l0Mixjb250cm9sfHJhaWQ9ZThjNzYzNjMtYmQzNS00ZjZhLWEzZDAtMmFlMGE0NWUxZjYyfHJzPTF8YWlkPTUzNzQzMDc2MHx0PTR8YXM9NzI4eDkwfGxpZD01MzcyODY3MzN8b2lkPTUzNjg3MzY1NXxwPTIxMDB8cHI9MjEwMHxhdGI9MjEwMHxhZHY9MzMxMTd8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5OT05HVUFSQU5URUVEfGxjPTJ8bHc9MTQ0MHx1cj1KanR0OHJYbVQ1",
+            "type":"html",
+            "ad_url":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-1575911585432548\";\ngoogle_ad_slot = \"3157381981\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n\n\n<script type=\"text/javascript\">\nvar _qevents = _qevents || [];\n\n(function() {\nvar elem = document.createElement('script');\nelem.src =  \"//secure.quantserve.com/quant.js\";\nelem.async = true;\nelem.type = \"text/javascript\";\nvar scpt = document.getElementsByTagName('script')[0];\nscpt.parentNode.insertBefore(elem, scpt);\n})();\n\n_qevents.push({\nqacct:\"p-7ccbedljiLMl2\"\n});\n</script>\n\n<noscript>\n<div style=\"display:none;\">\n<img src=\"//pixel.quantserve.com/pixel/p-7ccbedljiLMl2.gif\" border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n</div>\n</noscript>\n\n"
+          }
+        ]
+      }
+    ]
+  }
+});

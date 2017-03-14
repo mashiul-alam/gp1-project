@@ -1,0 +1,25 @@
+OX_5372686520({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://pixfuture-d.openx.net/{medium}/1.0/{rtype}?ts={txn_state}",
+    "oxt": 7.179,
+    "adunits" : [
+      {
+        "auid":"538090346",
+        "chain":[
+          {
+            "is_fallback":1,
+            "ad_id":"0",
+            "width":"728",
+            "height":"90",
+            "html":"<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<ins class=\"adsbygoogle\"\nstyle=\"display:block\"\ndata-ad-client=\"ca-pub-2217502521257108\"\ndata-ad-slot=\"7939467075\"\ndata-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle=window.adsbygoogle||[]).push({});\n</script>\n",
+            "target":"_blank",
+            "ts":"1fHJpZD1mZmRjZGFiOC1mZTVjLTRkZjQtOTgyNi0wOGY4MmJiZTNiMjZ8cnQ9MTQ4OTQ2MTA1MHxhdWlkPTUzODA5MDM0NnxhdW09RE1JRC5XRUJ8YXVwZj1kaXNwbGF5fHNpZD01MzcwODczODl8cHViPTUzNzA3ODAxMnxwYz1VU0R8cmFpZD01YjE3YmE5OS1mMzVhLTQ1ODAtODEzMS0zNGUyZmMxMzQ2YTh8cnM9MXx1cj1GY1FUc1dBN0Fu",
+            "type":"html",
+            "ad_url":"<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<ins class=\"adsbygoogle\"\nstyle=\"display:block\"\ndata-ad-client=\"ca-pub-2217502521257108\"\ndata-ad-slot=\"7939467075\"\ndata-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle=window.adsbygoogle||[]).push({});\n</script>\n"
+          }
+        ]
+      }
+    ]
+  }
+});
